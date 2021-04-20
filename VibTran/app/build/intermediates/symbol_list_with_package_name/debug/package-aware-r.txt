@@ -2299,6 +2299,7 @@ string invalid_username
 string isMerchant
 string item_view_role_description
 string login_failed
+string login_failed2
 string material_slider_range_end
 string material_slider_range_start
 string menu_contact

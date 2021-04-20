@@ -33,7 +33,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc5aa20f-ebb8-413f-a16c-d6344ccde744" name="Default Changelist" comment="Finished p2p system" />
+    <list default="true" id="bc5aa20f-ebb8-413f-a16c-d6344ccde744" name="Default Changelist" comment="Finished p2p system">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/vibtran/ui/login/LoginViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/vibtran/ui/login/LoginViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +75,9 @@
     </option>
   </component>
   <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran.keyStore.jks" />
+    <option name="KEY_ALIAS" value="VibTran" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
     <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
   <component name="Git.Settings">
@@ -85,8 +91,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ApkExportedModule" value="VibTran.app" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_API_30_x86" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-20T05:41:22.493Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="4df1a70149c59f2d" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-20T13:07:58.295Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -278,40 +287,40 @@
       <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
     <state x="-3733" y="154" width="2375" height="1215" key="DiffContextDialog/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618853607524" />
-    <state x="-2779" y="472" key="FileChooserDialogImpl" timestamp="1618911973276">
+    <state x="-2218" y="417" key="FileChooserDialogImpl" timestamp="1618923372013">
       <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state x="-2779" y="472" key="FileChooserDialogImpl/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618911973276" />
+    <state x="-2218" y="417" key="FileChooserDialogImpl/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618923372013" />
     <state x="4061" y="456" key="FileChooserDialogImpl/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616605929578" />
     <state x="622" y="313" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1612074658572" />
-    <state width="1257" height="427" key="GridCell.Tab.0.bottom" timestamp="1618903666503">
+    <state width="1257" height="427" key="GridCell.Tab.0.bottom" timestamp="1618925020319">
       <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state width="1257" height="427" key="GridCell.Tab.0.bottom/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618903666503" />
+    <state width="1257" height="427" key="GridCell.Tab.0.bottom/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618925020319" />
     <state width="1455" height="415" key="GridCell.Tab.0.bottom/0.0.1500.960/-3840.16.2560.1400@0.0.1500.960" timestamp="1618665502900" />
     <state width="1455" height="399" key="GridCell.Tab.0.bottom/0.0.1500.960/3000.0.2560.1400@0.0.1500.960" timestamp="1616739364710" />
     <state width="2516" height="399" key="GridCell.Tab.0.bottom/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616847335109" />
     <state width="1455" height="299" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1612136921140" />
-    <state width="1257" height="427" key="GridCell.Tab.0.center" timestamp="1618903666503">
+    <state width="1257" height="427" key="GridCell.Tab.0.center" timestamp="1618925020318">
       <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state width="1257" height="427" key="GridCell.Tab.0.center/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618903666503" />
+    <state width="1257" height="427" key="GridCell.Tab.0.center/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618925020318" />
     <state width="1455" height="415" key="GridCell.Tab.0.center/0.0.1500.960/-3840.16.2560.1400@0.0.1500.960" timestamp="1618665502900" />
     <state width="1455" height="399" key="GridCell.Tab.0.center/0.0.1500.960/3000.0.2560.1400@0.0.1500.960" timestamp="1616739364710" />
     <state width="2516" height="399" key="GridCell.Tab.0.center/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616847335109" />
     <state width="1455" height="299" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1612136921140" />
-    <state width="1257" height="427" key="GridCell.Tab.0.left" timestamp="1618903666502">
+    <state width="1257" height="427" key="GridCell.Tab.0.left" timestamp="1618925020318">
       <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state width="1257" height="427" key="GridCell.Tab.0.left/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618903666502" />
+    <state width="1257" height="427" key="GridCell.Tab.0.left/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618925020318" />
     <state width="1455" height="415" key="GridCell.Tab.0.left/0.0.1500.960/-3840.16.2560.1400@0.0.1500.960" timestamp="1618665502900" />
     <state width="1455" height="399" key="GridCell.Tab.0.left/0.0.1500.960/3000.0.2560.1400@0.0.1500.960" timestamp="1616739364710" />
     <state width="2516" height="399" key="GridCell.Tab.0.left/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616847335109" />
     <state width="1455" height="299" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1612136921140" />
-    <state width="1257" height="427" key="GridCell.Tab.0.right" timestamp="1618903666503">
+    <state width="1257" height="427" key="GridCell.Tab.0.right" timestamp="1618925020318">
       <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state width="1257" height="427" key="GridCell.Tab.0.right/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618903666503" />
+    <state width="1257" height="427" key="GridCell.Tab.0.right/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618925020318" />
     <state width="1455" height="415" key="GridCell.Tab.0.right/0.0.1500.960/-3840.16.2560.1400@0.0.1500.960" timestamp="1618665502900" />
     <state width="1455" height="399" key="GridCell.Tab.0.right/0.0.1500.960/3000.0.2560.1400@0.0.1500.960" timestamp="1616739364710" />
     <state width="2516" height="399" key="GridCell.Tab.0.right/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616847335109" />
@@ -322,10 +331,10 @@
     <state x="-2791" y="196" key="SettingsEditor/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618423230926" />
     <state x="252" y="126" key="SettingsEditor/0.0.1500.960/-3840.16.2560.1400@0.0.1500.960" timestamp="1615732089614" />
     <state x="252" y="126" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1611847614519" />
-    <state x="-2967" y="450" key="Vcs.Push.Dialog.v2" timestamp="1618853478192">
+    <state x="-2967" y="450" key="Vcs.Push.Dialog.v2" timestamp="1618920801586">
       <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state x="-2967" y="450" key="Vcs.Push.Dialog.v2/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618853478192" />
+    <state x="-2967" y="450" key="Vcs.Push.Dialog.v2/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618920801586" />
     <state x="-3497" y="528" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1617341183260">
       <screen x="-3840" y="16" width="2560" height="1400" />
     </state>

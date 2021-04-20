@@ -76,14 +76,14 @@ public class LoginViewModel extends ViewModel {
                             loginResult.setValue(new LoginResult(new LoggedInUserView(user)));
                         }else{
                             Log.e("error",  " : " +json.toString());
-                            loginResult.setValue(new LoginResult(R.string.login_failed));
+                            loginResult.setValue(new LoginResult(R.string.login_failed2));
                         }
                     } catch (JSONException e) {
                          Log.e("error",  " : " +json.toString());
                     }
 
                 }else{
-                    Log.e("error",  " : " +error.toString());
+                    Log.e("error",  " : " +error.getMessage());
                     loginResult.setValue(new LoginResult(R.string.login_failed));
                 }
 
