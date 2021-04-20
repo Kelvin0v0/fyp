@@ -47,67 +47,15 @@
 </style>
 @section('content')
 <div class="container">
-    <div class="d-flex" id="wrapper">
-
-        <!-- Sidebar -->
-        <div class="bg-light border-right" id="sidebar-wrapper">
-            <div class="sidebar-heading">Portal</div>
-            <div class="list-group list-group-flush">
-                <a href="./dashboard" class="list-group-item list-group-item-action bg-light" onclick="routeToDashboard()">Dashboard</a>
-                <a href="#" class="list-group-item list-group-item-action bg-light" onclick="routeToTransaction()">Transaction</a>
-                <a href="#" class="list-group-item list-group-item-action bg-light">Alert</a>
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">Dashboard</div>
+                <div class="card-body">
+                    Welcome!
+                </div>
             </div>
         </div>
-        <!-- /#sidebar-wrapper -->
-
-        <!-- Page Content -->
-        <div id="page-content-wrapper">
-
-            <div class="container-fluid">
-
-                <!-- <div class="col-md-8"> -->
-                    <div id="display"></div>
-                <!-- </div> -->
-
-            </div>
-        </div>
-        <!-- /#page-content-wrapper -->
-
     </div>
-
-
 </div>
-<script>
-    function routeToTransaction() {
-        event.preventDefault();
-        const CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content')
-        $.ajax({
-            url: '/home/transaction',
-            type: 'get',
-            data: {
-                CSRF_TOKEN
-            },
-            success: function(data) {
-                $("#display").html(data)
-            }
-        })
-
-    }
-
-    function routeToDashboard() {
-        event.preventDefault();
-        const CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content')
-        $.ajax({
-            url: '/home/dashboard',
-            type: 'get',
-            data: {
-                CSRF_TOKEN
-            },
-            success: function(data) {
-                $("#display").html(data)
-            }
-        })
-
-    }
-</script>
 @endsection

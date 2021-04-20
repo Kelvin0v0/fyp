@@ -18,8 +18,8 @@ class Otp extends Migration
             $table->integer('user_id');
             $table->longText('uuid');
             $table->longText('code');
-            $table->timestamp('create_date')->useCurrent();
-            $table->timestamp('expireDate')->nullable();
+            $table->timestamp('create_at')->useCurrent();
+            $table->timestamp('expire_at')->nullable();
         });
     }
 

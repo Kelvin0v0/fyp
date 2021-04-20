@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-
+use App\User;
 class HomeController extends Controller
 {
     /**
@@ -23,6 +23,10 @@ class HomeController extends Controller
      */
     public function index()
     {
+        // $users = User::where('email', $input['email'])->where('password', $input['password'])->first();
+        // foreach($users as $user){
+        //     echo $user->email;
+        // }
         return view('home');
     }
     /**
@@ -35,4 +39,6 @@ class HomeController extends Controller
         return view('adminHome');
     }
     
+
+   
 }
