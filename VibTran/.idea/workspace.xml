@@ -5,51 +5,114 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="25d9d34d-f2c2-44b9-956e-a2b29fcff908" name="Default Changelist" comment="" />
+    <list default="true" id="bc5aa20f-ebb8-413f-a16c-d6344ccde744" name="Default Changelist" comment="Finished p2p system" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[4df1a70149c59f2d]" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../VibTran\exportToHTML" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="layoutResourceFile" />
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="layoutResourceFile" />
+        <option value="valueResourceFile" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1n0GXZ9Pk0Ke4PHPxReFzRCQU3J" />
+  <component name="GenerateSignedApkSettings">
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nN4HxIOvHBY8aMkThPjYUBTLFs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="VibTran.app" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_API_30_x86" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-16T08:42:59.438Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-20T05:41:22.493Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyApplication" />
-    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="RF8M83J9WCE&#10;4df1a70149c59f2d" />
+    <property name="android-custom-viewC:/Users/kelvi/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.1/37d55d5141066b3d118d24232fa7025b65eb3a74/material-1.2.1-sources.jar!/com/google/android/material/navigation/NavigationView.java_SELECTED" value="NavigationView" />
+    <property name="android-custom-viewC:/Users/kelvi/AppData/Local/Android/Sdk/sources/android-30/android/widget/TextView.java_SELECTED" value="TextView" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/桌面/fypSource/mobile/VibTran_final/app" />
+    <property name="multi-representation-previewC:/Users/kelvi/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.1/37d55d5141066b3d118d24232fa7025b65eb3a74/material-1.2.1-sources.jar!/com/google/android/material/navigation/NavigationView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/kelvi/AppData/Local/Android/Sdk/sources/android-30/android/widget/TextView.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Variables" />
     <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="PsdUISettings">
-    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="emulator" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.-174116574">
+    <key name="android.template.-592191676">
       <recent name="com.example.vibtran" />
     </key>
-    <key name="android.template.2136790345">
+    <key name="android.template.-1635194626">
+      <recent name="com.example.vibtran.network" />
+    </key>
+    <key name="android.template.-864072293">
+      <recent name="com.example.vibtran" />
+    </key>
+    <key name="android.template.1470088692">
       <recent name="com.example.vibtran" />
     </key>
   </component>
@@ -124,66 +187,179 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="25d9d34d-f2c2-44b9-956e-a2b29fcff908" name="Default Changelist" comment="" />
-      <created>1610519634468</created>
+      <changelist id="bc5aa20f-ebb8-413f-a16c-d6344ccde744" name="Default Changelist" comment="" />
+      <created>1611217130279</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610519634468</updated>
+      <updated>1611217130279</updated>
     </task>
+    <task id="LOCAL-00001" summary="multi user account request">
+      <created>1611500997275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611500997275</updated>
+    </task>
+    <task id="LOCAL-00002" summary="multi user account request">
+      <created>1611502017495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611502017495</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished p2p system">
+      <created>1618851994712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618851994712</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="multi user account request" />
+    <MESSAGE value="Finished p2p system" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished p2p system" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="268" y="227" key="#PSD" timestamp="1610627806498">
+    <state x="-3042" y="463" key="#PSD" timestamp="1611501587850">
+      <screen x="-3840" y="16" width="2560" height="1400" />
+    </state>
+    <state x="-3042" y="463" key="#PSD/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1611501587850" />
+    <state x="283" y="134" key="#app" timestamp="1617719837722">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="268" y="227" key="#PSD/0.0.1500.960@0.0.1500.960" timestamp="1610627806498" />
-    <state x="556" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1610556202065">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state x="-3357" y="306" key="#app/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1617364442456" />
+    <state x="283" y="134" key="#app/0.0.1500.960/-3840.16.2560.1400@0.0.1500.960" timestamp="1617719837722" />
+    <state x="283" y="134" key="#app/0.0.1500.960@0.0.1500.960" timestamp="1612021477649" />
+    <state x="4085" y="385" key="#com.intellij.ide.util.MemberChooser" timestamp="1616714087316">
+      <screen x="3000" y="0" width="2560" height="1400" />
     </state>
-    <state x="556" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960@0.0.1500.960" timestamp="1610556202065" />
-    <state x="390" y="21" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610543663828">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state x="-2754" y="401" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1611475138794" />
+    <state x="4085" y="385" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616714087316" />
+    <state x="636" y="264" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960@0.0.1500.960" timestamp="1611912928169" />
+    <state x="-2926" y="258" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1617014172217">
+      <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state x="390" y="21" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1500.960@0.0.1500.960" timestamp="1610543663828" />
-    <state x="94" y="94" width="1313" height="773" key="AVDManager" timestamp="1610627545830">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state x="-2926" y="258" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1617014172216" />
+    <state x="-2829" y="464" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611474513458">
+      <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state x="94" y="94" width="1313" height="773" key="AVDManager/0.0.1500.960@0.0.1500.960" timestamp="1610627545830" />
-    <state x="331" y="236" key="AndroidCreateResourceDirectoryDialog" timestamp="1610905289161">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state x="-2829" y="464" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1611474513458" />
+    <state x="-3746" y="116" width="1092" height="1206" key="AVDManager" timestamp="1617336682307">
+      <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state x="331" y="236" key="AndroidCreateResourceDirectoryDialog/0.0.1500.960@0.0.1500.960" timestamp="1610905289161" />
-    <state x="331" y="236" key="AndroidCreateResourceFileDialog" timestamp="1610554574012">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state x="-3746" y="116" width="1092" height="1206" key="AVDManager/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1617336682307" />
+    <state x="55" y="69" width="640" height="827" key="AVDManager/0.0.1500.960/-3840.16.2560.1400@0.0.1500.960" timestamp="1613615706073" />
+    <state x="55" y="69" width="640" height="827" key="AVDManager/0.0.1500.960@0.0.1500.960" timestamp="1611916559953" />
+    <state x="3861" y="456" key="AndroidCreateResourceFileDialog" timestamp="1616621298993">
+      <screen x="3000" y="0" width="2560" height="1400" />
     </state>
-    <state x="331" y="236" key="AndroidCreateResourceFileDialog/0.0.1500.960@0.0.1500.960" timestamp="1610554574012" />
-    <state x="531" y="236" key="FileChooserDialogImpl" timestamp="1611197847431">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state x="3861" y="456" key="AndroidCreateResourceFileDialog/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616621298993" />
+    <state x="4126" y="491" key="AndroidCreateXmlResourceDialog" timestamp="1616821655808">
+      <screen x="3000" y="0" width="2560" height="1400" />
     </state>
-    <state x="531" y="236" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1611197847431" />
-    <state width="1455" height="255" key="GridCell.Tab.0.bottom" timestamp="1611036892478">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state x="-2714" y="507" key="AndroidCreateXmlResourceDialog/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1611478196585" />
+    <state x="4126" y="491" key="AndroidCreateXmlResourceDialog/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616821655808" />
+    <state x="-3733" y="154" width="2375" height="1215" key="DiffContextDialog" timestamp="1618853607524">
+      <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state width="1455" height="255" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1611036892478" />
-    <state width="1455" height="255" key="GridCell.Tab.0.center" timestamp="1611036892477">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state x="-3733" y="154" width="2375" height="1215" key="DiffContextDialog/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618853607524" />
+    <state x="-2779" y="472" key="FileChooserDialogImpl" timestamp="1618911973276">
+      <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state width="1455" height="255" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1611036892477" />
-    <state width="1455" height="255" key="GridCell.Tab.0.left" timestamp="1611036892477">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state x="-2779" y="472" key="FileChooserDialogImpl/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618911973276" />
+    <state x="4061" y="456" key="FileChooserDialogImpl/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616605929578" />
+    <state x="622" y="313" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1612074658572" />
+    <state width="1257" height="427" key="GridCell.Tab.0.bottom" timestamp="1618903666503">
+      <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state width="1455" height="255" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1611036892477" />
-    <state width="1455" height="255" key="GridCell.Tab.0.right" timestamp="1611036892478">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state width="1257" height="427" key="GridCell.Tab.0.bottom/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618903666503" />
+    <state width="1455" height="415" key="GridCell.Tab.0.bottom/0.0.1500.960/-3840.16.2560.1400@0.0.1500.960" timestamp="1618665502900" />
+    <state width="1455" height="399" key="GridCell.Tab.0.bottom/0.0.1500.960/3000.0.2560.1400@0.0.1500.960" timestamp="1616739364710" />
+    <state width="2516" height="399" key="GridCell.Tab.0.bottom/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616847335109" />
+    <state width="1455" height="299" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1612136921140" />
+    <state width="1257" height="427" key="GridCell.Tab.0.center" timestamp="1618903666503">
+      <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state width="1455" height="255" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1611036892478" />
-    <state x="252" y="126" key="SettingsEditor" timestamp="1610627665568">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state width="1257" height="427" key="GridCell.Tab.0.center/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618903666503" />
+    <state width="1455" height="415" key="GridCell.Tab.0.center/0.0.1500.960/-3840.16.2560.1400@0.0.1500.960" timestamp="1618665502900" />
+    <state width="1455" height="399" key="GridCell.Tab.0.center/0.0.1500.960/3000.0.2560.1400@0.0.1500.960" timestamp="1616739364710" />
+    <state width="2516" height="399" key="GridCell.Tab.0.center/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616847335109" />
+    <state width="1455" height="299" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1612136921140" />
+    <state width="1257" height="427" key="GridCell.Tab.0.left" timestamp="1618903666502">
+      <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state x="252" y="126" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1610627665568" />
-    <state x="828" y="289" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1610627605388">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state width="1257" height="427" key="GridCell.Tab.0.left/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618903666502" />
+    <state width="1455" height="415" key="GridCell.Tab.0.left/0.0.1500.960/-3840.16.2560.1400@0.0.1500.960" timestamp="1618665502900" />
+    <state width="1455" height="399" key="GridCell.Tab.0.left/0.0.1500.960/3000.0.2560.1400@0.0.1500.960" timestamp="1616739364710" />
+    <state width="2516" height="399" key="GridCell.Tab.0.left/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616847335109" />
+    <state width="1455" height="299" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1612136921140" />
+    <state width="1257" height="427" key="GridCell.Tab.0.right" timestamp="1618903666503">
+      <screen x="-3840" y="16" width="2560" height="1400" />
     </state>
-    <state x="828" y="289" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/0.0.1500.960@0.0.1500.960" timestamp="1610627605388" />
+    <state width="1257" height="427" key="GridCell.Tab.0.right/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618903666503" />
+    <state width="1455" height="415" key="GridCell.Tab.0.right/0.0.1500.960/-3840.16.2560.1400@0.0.1500.960" timestamp="1618665502900" />
+    <state width="1455" height="399" key="GridCell.Tab.0.right/0.0.1500.960/3000.0.2560.1400@0.0.1500.960" timestamp="1616739364710" />
+    <state width="2516" height="399" key="GridCell.Tab.0.right/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616847335109" />
+    <state width="1455" height="299" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1612136921140" />
+    <state x="-2791" y="196" key="SettingsEditor" timestamp="1618423230926">
+      <screen x="-3840" y="16" width="2560" height="1400" />
+    </state>
+    <state x="-2791" y="196" key="SettingsEditor/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618423230926" />
+    <state x="252" y="126" key="SettingsEditor/0.0.1500.960/-3840.16.2560.1400@0.0.1500.960" timestamp="1615732089614" />
+    <state x="252" y="126" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1611847614519" />
+    <state x="-2967" y="450" key="Vcs.Push.Dialog.v2" timestamp="1618853478192">
+      <screen x="-3840" y="16" width="2560" height="1400" />
+    </state>
+    <state x="-2967" y="450" key="Vcs.Push.Dialog.v2/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618853478192" />
+    <state x="-3497" y="528" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1617341183260">
+      <screen x="-3840" y="16" width="2560" height="1400" />
+    </state>
+    <state x="-3497" y="528" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1617341183260" />
+    <state x="201" y="351" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/0.0.1500.960@0.0.1500.960" timestamp="1611763858526" />
+    <state x="-2750" y="631" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618853301543">
+      <screen x="-3840" y="16" width="2560" height="1400" />
+    </state>
+    <state x="-2750" y="631" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618853301543" />
+    <state x="-2852" y="316" width="585" height="801" key="find.popup" timestamp="1617278185326">
+      <screen x="-3840" y="16" width="2560" height="1400" />
+    </state>
+    <state x="-2852" y="316" width="585" height="801" key="find.popup/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1617278185326" />
+    <state x="-2816" y="505" key="git4idea.merge.GitPullDialog" timestamp="1618853058345">
+      <screen x="-3840" y="16" width="2560" height="1400" />
+    </state>
+    <state x="-2816" y="505" key="git4idea.merge.GitPullDialog/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618853058345" />
+    <state x="-2917" y="443" width="700" height="530" key="recent.locations.popup" timestamp="1618838004693">
+      <screen x="-3840" y="16" width="2560" height="1400" />
+    </state>
+    <state x="-2917" y="443" width="700" height="530" key="recent.locations.popup/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618838004693" />
+    <state x="-3145" y="337" key="run.anything.popup" timestamp="1617175159085">
+      <screen x="-3840" y="16" width="2560" height="1400" />
+    </state>
+    <state x="-3145" y="337" key="run.anything.popup/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1617175159085" />
+    <state x="3695" y="321" key="run.anything.popup/0.0.1500.960/3000.0.2560.1400@3000.0.2560.1400" timestamp="1616604820839" />
+    <state x="407" y="220" key="run.anything.popup/0.0.1500.960@0.0.1500.960" timestamp="1612104556604" />
+    <state x="-2897" y="331" width="672" height="678" key="search.everywhere.popup" timestamp="1617004052816">
+      <screen x="-3840" y="16" width="2560" height="1400" />
+    </state>
+    <state x="-2897" y="331" width="672" height="678" key="search.everywhere.popup/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1617004052816" />
+    <state x="-3135" y="468" width="1151" height="496" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1618853602898">
+      <screen x="-3840" y="16" width="2560" height="1400" />
+    </state>
+    <state x="-3135" y="468" width="1151" height="496" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1500.960/-3840.16.2560.1400@-3840.16.2560.1400" timestamp="1618853602898" />
   </component>
 </project>

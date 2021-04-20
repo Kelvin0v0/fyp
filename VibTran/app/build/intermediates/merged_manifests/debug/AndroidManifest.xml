@@ -10,8 +10,8 @@
 
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
-    <!-- <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> -->
     <application
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -23,8 +23,30 @@
         android:testOnly="true"
         android:theme="@style/Theme.VibTran"
         android:usesCleartextTraffic="true" >
-        <activity android:name="com.example.vibtran.ReceiveActivity" />
-        <activity android:name="com.example.vibtran.SendActivity" />
+        <activity android:name="com.example.vibtran.WithdrawActivity" />
+        <activity android:name="com.example.vibtran.DepositActivity" />
+        <activity android:name="com.example.vibtran.TransmitActivity" />
+        <activity android:name="com.example.vibtran.ReceiptActivity" />
+        <activity android:name="com.example.vibtran.PaymentActivity" />
+        <activity android:name="com.example.vibtran.RegisterActivity" />
+        <activity android:name="com.example.vibtran.SenderActivity" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity android:name="com.example.vibtran.ReceiverActivity" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
         <activity
             android:name="com.example.vibtran.MainActivity"
             android:label="@string/title_activity_main"

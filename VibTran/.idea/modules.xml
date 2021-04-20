@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VibTran.iml" filepath="$PROJECT_DIR$/.idea/modules/VibTran.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/VibTran.iml" filepath="$PROJECT_DIR$/.idea/VibTran.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VibTran.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VibTran.app.iml" />
     </modules>
   </component>

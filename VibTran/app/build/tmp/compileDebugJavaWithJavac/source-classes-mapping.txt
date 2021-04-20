@@ -1,59 +1,54 @@
-com/example/vibtran/ui/login/LoginViewModel.java
- com.example.vibtran.ui.login.LoginViewModel
-com/example/vibtran/data/Result.java
- com.example.vibtran.data.Result
- com.example.vibtran.data.Result$1
- com.example.vibtran.data.Result$Error
- com.example.vibtran.data.Result$Success
-com/example/vibtran/ui/slideshow/SlideshowFragment.java
- com.example.vibtran.ui.slideshow.SlideshowFragment
- com.example.vibtran.ui.slideshow.SlideshowFragment$1
-com/example/vibtran/network/NetRequest.java
- com.example.vibtran.network.NetRequest
- com.example.vibtran.network.NetRequest$1
- com.example.vibtran.network.NetRequest$2
+com/example/vibtran/PaymentActivity.java
+ com.example.vibtran.PaymentActivity
+ com.example.vibtran.PaymentActivity$1
+ com.example.vibtran.PaymentActivity$1$1
+ com.example.vibtran.PaymentActivity$2
+ com.example.vibtran.PaymentActivity$2$1
+com/example/vibtran/ui/login/LoginViewModelFactory.java
+ com.example.vibtran.ui.login.LoginViewModelFactory
+com/example/vibtran/analysis/ClusterVib.java
+ com.example.vibtran.analysis.ClusterVib
+com/example/vibtran/network/NetRequestInterface.java
+ com.example.vibtran.network.NetRequestInterface
+com/example/vibtran/ui/login/LoginFormState.java
+ com.example.vibtran.ui.login.LoginFormState
+com/example/vibtran/model/User.java
+ com.example.vibtran.model.User
 com/example/vibtran/ui/login/LoginResult.java
  com.example.vibtran.ui.login.LoginResult
 com/example/vibtran/ui/History/HistoryViewModel.java
  com.example.vibtran.ui.History.HistoryViewModel
-com/example/vibtran/data/LoginDataSource.java
- com.example.vibtran.data.LoginDataSource
-com/example/vibtran/ui/home/HomeViewModel.java
- com.example.vibtran.ui.home.HomeViewModel
+com/example/vibtran/ui/contacts/ContactsFragment.java
+ com.example.vibtran.ui.contacts.ContactsFragment
 com/example/vibtran/ui/login/LoggedInUserView.java
  com.example.vibtran.ui.login.LoggedInUserView
-com/example/vibtran/data/model/LoggedInUser.java
- com.example.vibtran.data.model.LoggedInUser
-com/example/vibtran/ui/slideshow/SlideshowViewModel.java
- com.example.vibtran.ui.slideshow.SlideshowViewModel
-com/example/vibtran/SendActivity.java
- com.example.vibtran.SendActivity
-com/example/vibtran/ReceiveActivity.java
- com.example.vibtran.ReceiveActivity
- com.example.vibtran.ReceiveActivity$1
-com/example/vibtran/network/NetQueueSingle.java
- com.example.vibtran.network.NetQueueSingle
- com.example.vibtran.network.NetQueueSingle$1
-com/example/vibtran/ui/home/HomeFragment.java
- com.example.vibtran.ui.home.HomeFragment
- com.example.vibtran.ui.home.HomeFragment$1
- com.example.vibtran.ui.home.HomeFragment$2
-com/example/vibtran/data/LoginRepository.java
- com.example.vibtran.data.LoginRepository
-com/example/vibtran/ui/History/HistoryFragment.java
- com.example.vibtran.ui.History.HistoryFragment
- com.example.vibtran.ui.History.HistoryFragment$1
+com/example/vibtran/ui/home/HomeViewModel.java
+ com.example.vibtran.ui.home.HomeViewModel
+com/example/vibtran/ui/contacts/ContactsViewModel.java
+ com.example.vibtran.ui.contacts.ContactsViewModel
 com/example/vibtran/BuildConfig.java
  com.example.vibtran.BuildConfig
-com/example/vibtran/ui/login/LoginFormState.java
- com.example.vibtran.ui.login.LoginFormState
-com/example/vibtran/ui/login/LoginViewModelFactory.java
- com.example.vibtran.ui.login.LoginViewModelFactory
+com/example/vibtran/RegisterActivity.java
+ com.example.vibtran.RegisterActivity
+ com.example.vibtran.RegisterActivity$1
+ com.example.vibtran.RegisterActivity$1$1
+com/example/vibtran/network/NetQueueSingle.java
+ com.example.vibtran.network.NetQueueSingle
+com/example/vibtran/ui/login/LoginViewModel.java
+ com.example.vibtran.ui.login.LoginViewModel
+ com.example.vibtran.ui.login.LoginViewModel$1
+com/example/vibtran/model/AppStore.java
+ com.example.vibtran.model.AppStore
+com/example/vibtran/DepositActivity.java
+ com.example.vibtran.DepositActivity
+com/example/vibtran/network/NetRequest.java
+ com.example.vibtran.network.NetRequest
+ com.example.vibtran.network.NetRequest$1
+ com.example.vibtran.network.NetRequest$2
+ com.example.vibtran.network.NetRequest$3
+ com.example.vibtran.network.NetRequest$4
 com/example/vibtran/MainActivity.java
  com.example.vibtran.MainActivity
- com.example.vibtran.MainActivity$1
- com.example.vibtran.MainActivity$2
- com.example.vibtran.MainActivity$3
 com/example/vibtran/ui/login/LoginActivity.java
  com.example.vibtran.ui.login.LoginActivity
  com.example.vibtran.ui.login.LoginActivity$1
@@ -61,3 +56,38 @@ com/example/vibtran/ui/login/LoginActivity.java
  com.example.vibtran.ui.login.LoginActivity$3
  com.example.vibtran.ui.login.LoginActivity$4
  com.example.vibtran.ui.login.LoginActivity$5
+ com.example.vibtran.ui.login.LoginActivity$6
+com/example/vibtran/WithdrawActivity.java
+ com.example.vibtran.WithdrawActivity
+com/example/vibtran/ReceiptActivity.java
+ com.example.vibtran.ReceiptActivity
+ com.example.vibtran.ReceiptActivity$1
+ com.example.vibtran.ReceiptActivity$2
+com/example/vibtran/TransmitActivity.java
+ com.example.vibtran.TransmitActivity
+ com.example.vibtran.TransmitActivity$1
+ com.example.vibtran.TransmitActivity$1$1
+ com.example.vibtran.TransmitActivity$2
+ com.example.vibtran.TransmitActivity$2$1
+com/example/vibtran/ui/History/HistoryFragment.java
+ com.example.vibtran.ui.History.HistoryFragment
+ com.example.vibtran.ui.History.HistoryFragment$1
+com/example/vibtran/analysis/PatternToVib.java
+ com.example.vibtran.analysis.PatternToVib
+com/example/vibtran/ReceiverActivity.java
+ com.example.vibtran.ReceiverActivity
+ com.example.vibtran.ReceiverActivity$1
+ com.example.vibtran.ReceiverActivity$2
+ com.example.vibtran.ReceiverActivity$2$1
+com/example/vibtran/ui/home/HomeFragment.java
+ com.example.vibtran.ui.home.HomeFragment
+ com.example.vibtran.ui.home.HomeFragment$1
+ com.example.vibtran.ui.home.HomeFragment$2
+ com.example.vibtran.ui.home.HomeFragment$3
+ com.example.vibtran.ui.home.HomeFragment$4
+ com.example.vibtran.ui.home.HomeFragment$5
+com/example/vibtran/SenderActivity.java
+ com.example.vibtran.SenderActivity
+ com.example.vibtran.SenderActivity$1
+ com.example.vibtran.SenderActivity$2
+ com.example.vibtran.SenderActivity$3

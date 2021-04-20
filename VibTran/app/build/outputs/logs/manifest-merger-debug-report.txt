@@ -1,14 +1,17 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:2:1-56:12
 MERGED from [androidx.navigation:navigation-ui:2.3.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\6fcc636d3ce9936f67977b2809de7d1b\navigation-ui-2.3.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c63d4a666c0a1ba98c2e2f24b9638d9e\material-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\b8718484daa03109e40dacfa216193fb\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\4f9c7f78c15bb692cf0895b881aafbad\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\12167144c87e3b3f08756da2d613ed2f\jetified-graphview-4.2.2\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c9e3c86218f0ebf08d011b105d6d4b36\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\3db056b7b2a67d9700cd1094de7f7779\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\e9a886a277d45e4611014a26e73477d0\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\43d28a6cb6aa3ef105d8e111681e9af4\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -21,11 +24,16 @@ MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\kelvi\.gradle\ca
 MERGED from [androidx.transition:transition:1.3.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\e4e188dde42db9ec430d5d1cf15cd004\transition-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c85e1f195321245fafe1a599b5dddf47\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\0b21398ec4672209e12f9d44aaf124af\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\8a338226b496967f0d093bd2fec348ba\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\087418591f402220f122a32114fbea96\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.3.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\30ea3985a26de7e0e5934787e5116813\navigation-runtime-2.3.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.1.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\41b8d659a9b5777956384975cf9ebd42\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-common:2.3.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\2273b25b8844a15f15106fedcdf7b834\navigation-common-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\b52031778c3730d2e5cb2a6c88a2a2c6\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\20725fa20214e86eb8fa55394d5d409e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\247f3bbc11fc5188f3d3375e9cc247ac\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.3.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\98a0b41ca9a47c2fea830e2c1f2167dd\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\3e3f3d50d38e11decf1394c1c71b0fc7\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
@@ -39,39 +47,48 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kelvi\.gradle\cache
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\bf72a15a3ccfe7bc47129422d9cddb0c\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\8b5e123a9c5293fd4e2ed3fcf992930f\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\a22fab001772e3213fd3f87fdd80b5c6\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\7814cceeb7ac44ad46459a3c3c62875b\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\40996d6039fa2fb22354b30f3d767665\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.volley:volley:1.1.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\6f897cce308d56212c19795044f79644\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:2:1-56:12
 	package
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:3:5-34
-		INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:4:5-66
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:4:22-63
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:5:22-63
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:7:22-72
 application
-ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:7:5-31:19
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:9:5-54:19
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c63d4a666c0a1ba98c2e2f24b9638d9e\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c63d4a666c0a1ba98c2e2f24b9638d9e\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\b8718484daa03109e40dacfa216193fb\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\b8718484daa03109e40dacfa216193fb\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\12167144c87e3b3f08756da2d613ed2f\jetified-graphview-4.2.2\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\12167144c87e3b3f08756da2d613ed2f\jetified-graphview-4.2.2\AndroidManifest.xml:11:5-12:19
 MERGED from [androidx.core:core:1.3.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.3.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
@@ -81,55 +98,79 @@ MERGED from [com.android.volley:volley:1.1.1] C:\Users\kelvi\.gradle\caches\tran
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:12:9-41
 	android:roundIcon
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:13:9-54
 	android:icon
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:14:9-45
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:15:9-45
 	android:usesCleartextTraffic
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:9:9-44
-activity#com.example.vibtran.ReceiveActivity
-ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:16:9-62
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:16:9-44
+activity#com.example.vibtran.WithdrawActivity
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:17:9-63
 	android:name
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:16:19-50
-activity#com.example.vibtran.SendActivity
-ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:17:9-50
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:17:19-51
+activity#com.example.vibtran.DepositActivity
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:18:9-53
 	android:name
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:17:19-47
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:18:19-50
+activity#com.example.vibtran.TransmitActivity
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:19:9-54
+	android:name
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:19:19-51
+activity#com.example.vibtran.ReceiptActivity
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:20:19-50
+activity#com.example.vibtran.PaymentActivity
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:21:19-50
+activity#com.example.vibtran.RegisterActivity
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:22:19-51
+activity#com.example.vibtran.SenderActivity
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:name
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:23:19-49
+activity#com.example.vibtran.ReceiverActivity
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:name
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:32:19-51
 activity#com.example.vibtran.MainActivity
-ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:18:9-21:64
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:41:9-44:64
 	android:label
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:20:13-56
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:43:13-56
 	android:theme
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:21:13-61
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:44:13-61
 	android:name
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:19:13-41
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:42:13-41
 activity#com.example.vibtran.ui.login.LoginActivity
-ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:22:9-30:20
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:45:9-53:20
 	android:label
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:24:13-45
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:47:13-45
 	android:name
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:23:13-51
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:46:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:25:13-29:29
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:48:13-52:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:49:17-69
 	android:name
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:49:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:28:17-77
+ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:51:17-77
 	android:name
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml:28:27-74
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml:51:27-74
 uses-sdk
-INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui:2.3.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\6fcc636d3ce9936f67977b2809de7d1b\navigation-ui-2.3.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.3.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\6fcc636d3ce9936f67977b2809de7d1b\navigation-ui-2.3.2\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c63d4a666c0a1ba98c2e2f24b9638d9e\material-1.2.1\AndroidManifest.xml:20:5-44
@@ -140,6 +181,12 @@ MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kelvi\.gradle\caches\t
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\4f9c7f78c15bb692cf0895b881aafbad\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\12167144c87e3b3f08756da2d613ed2f\jetified-graphview-4.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\12167144c87e3b3f08756da2d613ed2f\jetified-graphview-4.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c9e3c86218f0ebf08d011b105d6d4b36\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c9e3c86218f0ebf08d011b105d6d4b36\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\3db056b7b2a67d9700cd1094de7f7779\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\3db056b7b2a67d9700cd1094de7f7779\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\e9a886a277d45e4611014a26e73477d0\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
@@ -164,8 +211,12 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kelvi\.gradle\ca
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c85e1f195321245fafe1a599b5dddf47\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\0b21398ec4672209e12f9d44aaf124af\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\0b21398ec4672209e12f9d44aaf124af\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\8a338226b496967f0d093bd2fec348ba\customview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\8a338226b496967f0d093bd2fec348ba\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\087418591f402220f122a32114fbea96\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\087418591f402220f122a32114fbea96\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime:2.3.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\30ea3985a26de7e0e5934787e5116813\navigation-runtime-2.3.2\AndroidManifest.xml:20:5-22:41
@@ -174,6 +225,12 @@ MERGED from [androidx.activity:activity:1.1.0] C:\Users\kelvi\.gradle\caches\tra
 MERGED from [androidx.activity:activity:1.1.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\41b8d659a9b5777956384975cf9ebd42\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-common:2.3.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\2273b25b8844a15f15106fedcdf7b834\navigation-common-2.3.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-common:2.3.2] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\2273b25b8844a15f15106fedcdf7b834\navigation-common-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\b52031778c3730d2e5cb2a6c88a2a2c6\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\b52031778c3730d2e5cb2a6c88a2a2c6\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\20725fa20214e86eb8fa55394d5d409e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\20725fa20214e86eb8fa55394d5d409e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\247f3bbc11fc5188f3d3375e9cc247ac\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\247f3bbc11fc5188f3d3375e9cc247ac\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.3.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.3.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\98a0b41ca9a47c2fea830e2c1f2167dd\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
@@ -200,17 +257,23 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\kelvi\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\8b5e123a9c5293fd4e2ed3fcf992930f\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\a22fab001772e3213fd3f87fdd80b5c6\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\a22fab001772e3213fd3f87fdd80b5c6\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\7814cceeb7ac44ad46459a3c3c62875b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\7814cceeb7ac44ad46459a3c3c62875b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\40996d6039fa2fb22354b30f3d767665\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\40996d6039fa2fb22354b30f3d767665\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.volley:volley:1.1.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\6f897cce308d56212c19795044f79644\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
 MERGED from [com.android.volley:volley:1.1.1] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\6f897cce308d56212c19795044f79644\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\kelvi\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\kelvi\AndroidStudioProjects\VibTran\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kelvi\AndroidStudioProjects\fyp\VibTran\app\src\main\AndroidManifest.xml
