@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeFragment">
+
+    <TextView
+        android:id="@+id/UserEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="216dp"
+        android:text="$0"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/Receive"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/UserEmail"
+        app:layout_constraintVertical_bias="0.257" />
+
+    <Button
+        android:id="@+id/Receive"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="Receive"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/Send"
+        app:layout_constraintTop_toBottomOf="@+id/UserEmail"
+        app:layout_constraintVertical_bias="0.257" />
+
+    <TextView
+        android:id="@+id/BalanceTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Current Balance"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/UserEmail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.898" />
+
+    <Button
+        android:id="@+id/Withdraw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Withdraw"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/Deposit"
+        app:layout_constraintHorizontal_bias="0.484"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Send"
+        app:layout_constraintVertical_bias="0.208" />
+
+    <Button
+        android:id="@+id/Deposit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Deposit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/Withdraw"
+        app:layout_constraintTop_toBottomOf="@+id/Receive"
+        app:layout_constraintVertical_bias="0.208" />
+</androidx.constraintlayout.widget.ConstraintLayout>
